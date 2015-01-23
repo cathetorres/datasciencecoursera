@@ -16,13 +16,13 @@ In the data set "tidyData" just the estimates of the mean and standard deviation
 The 68 variables in this dataset are:
 
 
-1 	     #activities#: Activities performed in the experiment.
+1 	     **activities**: Activities performed in the experiment.
 			 Factor with 6 levels (walking, walking_upstairs, walking_downstairs, sitting, standing, laying)
 
-2              subjects: An identifier of the subject who carried out the experiment.
+2              **subjects**: An identifier of the subject who carried out the experiment.
 			 Integer values between 1 and 30.
 
-3         tBodyAccMeanX: Average of the body acceleration signals in the time domain and axis X.
+3         **tBodyAccMeanX**: Average of the body acceleration signals in the time domain and axis X.
 			 Numeric values between -1 and 1.
 
 4         tBodyAccMeanY: Average of the body acceleration signals in the time domain and axis Y.
