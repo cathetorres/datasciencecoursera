@@ -11,7 +11,6 @@ See 'CodeBook.md' for more details about the variables in "tidyData".
 
 
 This Project includes the following files:
-====================================================
 
 - 'README.md'
 
