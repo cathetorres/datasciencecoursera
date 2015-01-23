@@ -212,7 +212,7 @@ The 68 variables in this dataset are:
 			 Numeric values between -1 and 1.
 
 
-**====== Notes ====== **
+====== Notes ======
 
 - Features are normalized and bounded within [-1,1].
 - The variables are unitlless.
