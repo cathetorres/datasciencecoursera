@@ -1,16 +1,7 @@
 Codebook
 ================
 
-The data set "tidyData" contains 68 variables, derived from the UCI HAR Dataset (Anguita et al., 2012). The variables are derived from measurements of the accelerometer ('Acc') and gyroscope ('Gyro') 3-axial raw signals (X, Y and Z directions). 
-
-The acceleration signal was separated into body and gravity acceleration signals (prefixes 'Body' and 'Gravity' in the names of the variables). 
-
-The body linear acceleration and angular velocity were derived in time to obtain Jerk signals (tBodyAccJerk-XYZ and tBodyGyroJerk-XYZ). 
-
-Also the magnitude of these three-dimensional signals were calculated using the Euclidean norm (tBodyAccMag, tGravityAccMag, tBodyAccJerkMag, tBodyGyroMag, tBodyGyroJerkMag). 
-
-The prefix 't'denote the time domain signals and the prefix 'f' is used to indicate frequency domain signals, by application of a Fast Fourier Transform (FFT). 
-
+The data set "tidyData" contains 68 variables, derived from the UCI HAR Dataset (Anguita et al., 2012). The variables are derived from measurements of the accelerometer ('Acc') and gyroscope ('Gyro') 3-axial raw signals (X, Y and Z directions). The acceleration signal was separated into body and gravity acceleration signals (prefixes 'Body' and 'Gravity' in the names of the variables). The body linear acceleration and angular velocity were derived in time to obtain Jerk signals (tBodyAccJerk-XYZ and tBodyGyroJerk-XYZ). Also the magnitude of these three-dimensional signals were calculated using the Euclidean norm (tBodyAccMag, tGravityAccMag, tBodyAccJerkMag, tBodyGyroMag, tBodyGyroJerkMag). The prefix 't'denote the time domain signals and the prefix 'f' is used to indicate frequency domain signals, by application of a Fast Fourier Transform (FFT). 
 In the data set "tidyData" just the estimates of the mean and standard deviation of the signals were considered as variables (prefixes 'Mean' and 'Std' in the names of the variables). This dataset contains the average of these estimations for each subject and each activity.
 
 The 68 variables in this dataset are:
