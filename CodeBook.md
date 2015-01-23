@@ -16,7 +16,7 @@ In the data set "tidyData" just the estimates of the mean and standard deviation
 The 68 variables in this dataset are:
 
 
-1 	     activities: Activities performed in the experiment.
+1 	     #activities#: Activities performed in the experiment.
 			 Factor with 6 levels (walking, walking_upstairs, walking_downstairs, sitting, standing, laying)
 
 2              subjects: An identifier of the subject who carried out the experiment.
